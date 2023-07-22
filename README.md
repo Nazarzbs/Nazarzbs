@@ -28,7 +28,5 @@ Fully functional, cross-platform and native iOS app.
   <img src="https://github.com/Nazarzbs/Nazarzbs/assets/68568073/a6077ec9-5712-451c-bd57-7b8f392e594f" alt="Image 2" style="width: 240px; height: 480px; margin-right: 30px;">
   <img src="https://github.com/Nazarzbs/Nazarzbs/assets/68568073/c69a89aa-c6bb-498a-a4f9-04640bdf86ce" alt="Image 3" style="width: 240px; height: 480px; margin-right: 30px;">
    <img src="https://github.com/Nazarzbs/Nazarzbs/assets/68568073/fb4c6de6-93a6-4d59-92cd-9cb73997f753" alt="Image 4" style="width: 240px; height: 480px; margin-right: 30px;">
+  <img src="https://github.com/Nazarzbs/Nazarzbs/assets/68568073/88ac9494-8345-4d55-b4b6-d9cf5b56d854" alt="Image 5" style="width: 480px; height: 560px; margin-right: 30px;">
 </div>
-
-![Simulator Screen Recording - iPad Pro (12 9-inch) (6th generation) - 2023-07-23 at 01 23 00](https://github.com/Nazarzbs/Nazarzbs/assets/68568073/88ac9494-8345-4d55-b4b6-d9cf5b56d854)
-
