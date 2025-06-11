@@ -124,7 +124,7 @@ If you're interested in checking out what I've been working on and my projects �
 
 <br>
 
-# 📱MY BIGEST APP A BUILD USING UIKit
+# 📱MY BIGEST APP I BUILD USING UIKit
 
 > From Sketch to Code ⤵️
 
