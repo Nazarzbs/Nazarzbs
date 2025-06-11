@@ -1,4 +1,4 @@
-# Hi there👋, I am Nazar 💁‍♂️
+# Hi there👋, I am Nazar✌️
 
 <img src="https://github.com/user-attachments/assets/205218e6-e037-4c2f-b147-f1eb7716b057" alt="Nazar" width="180" height="180">
 
