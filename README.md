@@ -152,7 +152,6 @@ If you're interested in checking out what I've been working on and my projects ð
 
 <img width="1000" alt="South Park Secondary Screen" src="https://github.com/Nazarzbs/SouthPark/assets/68568073/decf7b82-5b8d-42c5-85c1-07f0e283f00a">
 
-#### Mobile Views
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
   <img src="https://github.com/Nazarzbs/SouthPark/assets/68568073/bfc839e5-51dd-4c1c-9ea8-8dff56712ed7" alt="Mobile View 1" style="width: 150px; height: 280px;">
   <img src="https://github.com/Nazarzbs/SouthPark/assets/68568073/675f4d24-d7fa-41b9-ada7-18304e17ab94" alt="Mobile View 2" style="width: 150px; height: 280px;">
